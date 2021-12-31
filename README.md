@@ -45,7 +45,7 @@ There are two dimensions that we will be considering in our evaluation of each m
 
 Hence, we propose a Speed and Performance Adjusted Combined Evaluation, SPACE, as a way to score models. SPACE(n) is evaluated as: 
 
-![equation](https://latex.codecogs.com/png.image?\dpi{110}&space;tanh(\frac{F1^{n}}{tanh(time)}))
+![equation](https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;tanh(\frac{F1^{n}}{tanh(time)}))
 
 where n is an indicated preference of classification performance over training speed. 
 

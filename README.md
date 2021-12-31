@@ -11,7 +11,9 @@ We explore combinations of Machine Learning models and vectorisation methods in 
 ## Codes and Resources Used
 
 **Python Version:** 3.9.5
+
 **Built with:** Jupyter Notebook
+
 **Packages:** pandas, numpy, matplotlib, collections, seaborn, imblearn, sklearn, tensorflow, keras, wordcloud, scipy, statistics, xgboost, yellowbricks
 
 ## About the Project

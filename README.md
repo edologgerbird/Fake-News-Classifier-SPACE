@@ -49,3 +49,7 @@ Hence, we propose a Speed and Performance Adjusted Combined Evaluation, SPACE, a
 
 where n is an indicated preference of classification performance over training speed. 
 
+### Dataset
+
+For this project, we will be using the [COVID19 Fake News Dataset NLP](https://www.kaggle.com/elvinagammed/covid19-fake-news-dataset-nlp?select=Constraint_Train.csv) from Kaggle. It contains a column comprising the news content and a column comprising the label (real or fake) for each news content.
+

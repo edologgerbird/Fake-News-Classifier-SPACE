@@ -1,4 +1,5 @@
-# Fake News Classifier SPACE
+# Investigating vectorisation methods and machine learning models using a novel evaluation metrics that considers classification performance and training time
+
 We explore combinations of Machine Learning models and vectorisation methods in classifying Covid-19 Fake News, evaluating models using a novel metric which combines F1-Score and training time.
 
 ## Authors:

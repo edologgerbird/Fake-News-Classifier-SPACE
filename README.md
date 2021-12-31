@@ -1,2 +1,2 @@
 # Fake News Classifier SPACE
- This project aims to create a classification model that effectively predicts Covid-19 Fake News given a piece of text. Which text vectorisation method and machine learning model can best classify Covid-19 Fake News, in terms of both classification performance and speed?
+We explore combinations of Machine Learning models and vectorisation methods in classifying Covid-19 Fake News, evaluating models using a novel metric which combines F1-Score and training time.
